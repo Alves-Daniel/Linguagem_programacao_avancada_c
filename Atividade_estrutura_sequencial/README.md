@@ -20,11 +20,16 @@ As perguntas são:
   e. "Já trabalhou com a vítima?"
 O programa deve no final emitir uma classificação sobre a participação da pessoa no crime. Se a pessoa responder positivamente a 2 questões ela deve ser classificada como "Suspeita", entre 3 e 4 como "Cúmplice" e 5 como "Assassino". Caso contrário, ele será classificado como "Inocente".
 9. Elabore um programa na Linguagem C que dada a idade de um atleta, classifique-o em  uma das  seguintes categorias:
-Infantil A = 5 a 7 anos
-Infantil B = 8 a 11 anos
-Juvenil A = 12 a 13 anos
-Juvenil B = 14 a 17 anos
-Adultos = Maiores de 18 anos
+Infantil A = 5 a 7 anos.
+
+Infantil B = 8 a 11 anos.
+
+Juvenil A = 12 a 13 anos.
+
+Juvenil B = 14 a 17 anos.
+
+Adultos = Maiores de 18 anos.
+
 10. Faça um programa que implemente uma calculadora que permite ao usuário escolher a operação matemática que ele deseja (soma, subtração, multiplicação e divisão) de dois valores dados.
 
 
